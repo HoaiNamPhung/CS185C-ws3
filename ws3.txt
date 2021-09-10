@@ -1,0 +1,4 @@
+Script started on 2021-09-10 06:22:51+00:00 [TERM="xterm" TTY="/dev/pts/1" COLUMNS="106" LINES="41"]
+1) The top 3 reviewers are 50122160, 50732546, and 52615377.
+2) The tp 3 most reviewed products are Harry Potter and the Order of the Phoenix (Book 5), Harry Potter And The Goblet Of Fire (Book 4), and The Da Vinci Code.
+3) A helpfulness value of 0 appears 459924 times. A helpfulness value of 1 appears 408857 times. A helpfulness value of 2 appears 333718 times. This pattern of number of overall appearances decreasing as helpfulness value increases persists for every other following helpfulness value.
